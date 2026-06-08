@@ -4,7 +4,7 @@ En este proyecto se ha llevado a cabo un proceso completo de aseguramiento de la
 
 El proyecto se ha realizado en equipo siguiendo metodología ágil Scrum y BDD para el diseño de las pruebas antes del desarrollo, siguiendo buenas prácticas de testing.
 
-## Plan de Pruebas, resultados y reporte de errores: [Ver Plan de Pruebas](https://github.com/Bootcamp-QA/plandepruebas.html)
+## Plan de Pruebas, resultados y reporte de errores: [[Ver Plan de Pruebas y reporte de errores](https://github.com/lmes4/Factorial/blob/main/Test%20Plan.pdf)]
 En este documento se detalla el plan de pruebas, las funcionalidades probadas, el resultado de las pruebas ejecutadas y el reporte de errores.
 
 
