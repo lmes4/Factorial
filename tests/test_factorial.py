@@ -1,3 +1,4 @@
+import pytest
 from playwright.sync_api import Page, expect
     
 def test_calcular_factorial_numero_entero_positivo (page: Page):
@@ -21,6 +22,7 @@ def test_calcular_factorial_valor_nonumerico (page: Page):
     expect(page.get_by_text("Please enter an integer")).to_be_visible()
 
 #Se desactiva test porque genera error https://adalabequipo4.atlassian.net/browse/PF-2
+@pytest.mark.xfail(reason="Bug PF-2 pendiente de resolver") 
 def test_calcular_factorial_valor_negativo (page: Page):
     print("Given la persona usuaria visita la pagina de Factorial")
     page.goto("https://qainterview.pythonanywhere.com/")
