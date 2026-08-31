@@ -1,6 +1,6 @@
 # Prueba técnica web Factorial
 
-En este proyecto se ha llevado a cabo un proceso completo de aseguramiento de la calidad (QA) sobre la funcionalidad principal de la web: https://qainterview.pythonanywhere.com/
+En este proyecto se ha llevado a cabo un proceso completo de aseguramiento de la calidad (QA) sobre la funcionalidad principal de la web: https://qainterview.pythonanywhere.com/ . NOTA INFORMATIVA: A fecha 31/08/2026 se detecta que la web se encuentra en "stand by", por lo que por ahora no se pueden ejecutar los test, ya que mandarán mensaje de error.
 
 El proyecto se ha realizado en equipo siguiendo metodología ágil Scrum y BDD para el diseño de las pruebas antes del desarrollo, siguiendo buenas prácticas de testing.
 
@@ -15,7 +15,7 @@ En este documento se detalla el plan de pruebas, las funcionalidades probadas, e
 
 ## Resultados de las pruebas automatizadas
 
-Se ha configurado un flujo de integración continua con github actions que ejecuta las pruebas después de cada cambio y una vez a la semana al final de cada sprint. Puede consultar en github actions el resultado de la ultima ejecucion de pruebas y descargar el reporte de los resultados de las pruebas:
+Se ha configurado un flujo de integración continua con github actions que ejecuta las pruebas después de cada cambio y una vez a la semana al final de cada sprint. Puede consultar en github actions el resultado de la ultima ejecución de pruebas y descargar el reporte de los resultados de las pruebas:
 
 ## Requisitos del Proyecto
 
